@@ -1,0 +1,11 @@
+body {
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.table {
+	margin-top: 20px;
+}
+.modal-add .control-label {
+	line-height: 34px;
+	padding: 0;
+}
